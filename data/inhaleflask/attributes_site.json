@@ -1,0 +1,16 @@
+{
+    "BCOB": {
+        "inlet_height": 15,
+        "sampling_period": 3600,
+        "inlet_base_elevation": 0,
+        "inlet_latitude": 22.17,
+        "inlet_longitude": 90.71,
+        "data_owner": "Anita Ganesan, University of Bristol",
+        "data_owner_email": "anita.ganesan@bristol.ac.uk",
+        "station_long_name": "Bangladesh Climate Observatory at Bhola",
+        "site_code": "BCOB",
+        "instrument": "medusa-22",
+        "instrument_date": "",
+        "instrument_comment": "University of Bristol lab Medusa"
+    }
+}
