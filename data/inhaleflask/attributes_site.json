@@ -12,5 +12,19 @@
         "instrument": "medusa-22",
         "instrument_date": "",
         "instrument_comment": "University of Bristol lab Medusa"
+    },
+    "MCOH": {
+        "inlet_height": 15,
+        "sampling_period": 3600,
+        "inlet_base_elevation": 0,
+        "inlet_latitude": 6.78,
+        "inlet_longitude": 73.18,
+        "data_owner": "Anita Ganesan, University of Bristol",
+        "data_owner_email": "anita.ganesan@bristol.ac.uk",
+        "station_long_name": "Maldives Climate Observatory at Hanimaadhoo",
+        "site_code": "MCOH",
+        "instrument": "medusa-22",
+        "instrument_date": "",
+        "instrument_comment": "University of Bristol lab Medusa"
     }
 }
