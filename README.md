@@ -17,7 +17,7 @@ Use this text in your config.yaml:
 
 ```
 user:
-  name: Matt Rigby, University of Bristol (dagage2)
+  name: YOURNAME
 paths:
   inhaleflask:
     gcms_flask_path: 
