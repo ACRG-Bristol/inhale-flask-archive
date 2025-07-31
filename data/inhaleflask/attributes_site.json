@@ -1,7 +1,7 @@
 {
     "BCOB": {
-        "inlet_height": 15,
-        "sampling_period": 3600,
+        "inlet_height": 10,
+        "sampling_period": 300,
         "inlet_base_elevation": 0,
         "inlet_latitude": 22.17,
         "inlet_longitude": 90.71,
@@ -14,8 +14,8 @@
         "instrument_comment": "University of Bristol lab Medusa"
     },
     "MCOH": {
-        "inlet_height": 15,
-        "sampling_period": 3600,
+        "inlet_height": 10,
+        "sampling_period": 300,
         "inlet_base_elevation": 0,
         "inlet_latitude": 6.78,
         "inlet_longitude": 73.18,

@@ -1,6 +1,9 @@
 {
-    "version": "TBD",
+    "version": "20250801",
     "doi": "TBD",
     "data_acknowledgements": "Please thank the listed contacts (who are not already co-authors) for each of the stations whose data is used in your paper.",
-    "data_citation_1": ""
+    "data_citation_1": "To be updated: The measurements at MCOH were funded by the NERC Seedcorn Grant to the University of Bristol, NE/V008234/1, and for BCOB from the European Commission funding to 
+    the United Nations Environment Programme. ADD BCOB statement. We are grateful to the Maldives Meteorological Services (MMS)and the government of the Republic of the Maldives for the joint operation
+    of MCOH, and especially to technicians at MCOH for support with infrastructure, logistics and instruments. We acknowledge financial support from the
+    Swedish Research Council for Sustainable Development (FORMAS Contract 2023-01234) and the Swedish Research Council (VR Distinguished Professorship Contract No. 2017-01601)."
 }

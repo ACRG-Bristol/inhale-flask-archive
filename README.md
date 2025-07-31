@@ -11,6 +11,8 @@ Create symlinks:
 ```
 data-gcms-flask-bcob -> /agage/summary/gccompare-flask/bristol-medusa22_BCOB_flask/
 data-gcms-flask-mcoh -> /agage/summary/gccompare-flask/bristol-medusa22_MCOH_flask/
+data-gcmd-flask-bcob -> /agage/summary/gccompare-flask/bristol-md_BCOB_flask/
+data-gcmd-flask-mcoh -> /agage/summary/gccompare-flask/bristol-md_MCOH_flask/
 ```
 
 Use this text in your config.yaml:
