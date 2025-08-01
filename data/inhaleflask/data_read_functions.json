@@ -1,3 +1,4 @@
 {
-    "GCMS-Medusa-flask": "read_gcwerks_flask"
+    "GCMS-Medusa-flask": "read_gcwerks_flask",
+    "GCMD-flask": "read_gcwerks_flask"
 }

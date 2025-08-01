@@ -4,9 +4,9 @@ Processing for BCOB and MCOH
 
 ## How to use
 
-Instructions for running on the Bristol DAGAGE2 system.
+Instructions for running on the **Bristol DAGAGE2** system.
 
-Create symlinks:
+Create symlinks in ```data/inhaleflask```:
 
 ```
 data-gcms-flask-bcob -> /agage/summary/gccompare-flask/bristol-medusa22_BCOB_flask/
@@ -22,8 +22,11 @@ user:
   name: YOURNAME
 paths:
   inhaleflask:
-    gcms_flask_path: 
+    GCMD-flask_path: 
       bcob: data-gcms-flask-bcob
       mcoh: data-gcms-flask-mcoh
+    GCMD-flask_path: 
+      bcob: data-gcmd-flask-bcob
+      mcoh: data-gcmd-flask-mcoh
     output_path: inhale-flask-archive.zip
 ```
