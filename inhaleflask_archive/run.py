@@ -7,4 +7,4 @@ if __name__ == "__main__":
             combined=False,
             baseline=False,
             monthly=False,
-            top_level_only=True,)
+            top_level_only=False,)
